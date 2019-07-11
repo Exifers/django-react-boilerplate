@@ -16,7 +16,6 @@ class App extends Component {
           color: 'white',
           fontFamily: 'Verdana, Geneva, sans-serif',
           fontSize: '22px',
-          height: '400px',
           padding: '50px',
           backgroundColor: '#222',
         }}>
