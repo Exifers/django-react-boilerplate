@@ -1,1 +1,1 @@
-web: gunicorn formMaker.wsgi --log-file -
+web: gunicorn home.wsgi --log-file -
