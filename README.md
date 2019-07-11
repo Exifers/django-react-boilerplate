@@ -43,8 +43,5 @@ npm run start
 ```
 Webpack Web Server will show you only the React part of the project, parts will be missing if you use Django to render some pages or html components.
 
-# Todo
-- support for PostGreSQL for deployment on Heroku
-
 # Licence
 GPL
